@@ -8,6 +8,5 @@ class Solution:
             rem=temp%10
             rev=rev*10+rem
             temp//=10
-        if rev==x:
-            return True
-        return False
+        return rev==x
+    
