@@ -3,11 +3,9 @@ class Solution:
         if num<=1:
             return False
         total=1
-        i=2
-        while i*i<=num:
+        for i in range(2,int(num**0.5)+1):
             if num%i==0:
                 total+=i
                 if i!=num//i:
                     total+=num//i
-            i+=1
-        return total==num
+        return num==total
