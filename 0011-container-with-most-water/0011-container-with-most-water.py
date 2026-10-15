@@ -1,6 +1,6 @@
 class Solution:
     def maxArea(self, height: list[int]) -> int:
-        most_water=0
+        most_water=float("-inf")
         n=len(height)
         left,right=0,n-1
         while left<right:
