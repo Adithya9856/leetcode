@@ -1,8 +1,7 @@
 class Solution:
     def maxArea(self, height: list[int]) -> int:
         most_water=float("-inf")
-        n=len(height)
-        left,right=0,n-1
+        left,right=0,len(height)-1
         while left<right:
             lenght=min(height[left],height[right])
             width=right-left
