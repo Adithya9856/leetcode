@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Adithya9856/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Adithya9856/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adithya9856/leetcode/tree/master/0088-merge-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/Adithya9856/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adithya9856/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
