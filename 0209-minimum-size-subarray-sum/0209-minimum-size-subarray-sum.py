@@ -9,4 +9,4 @@ class Solution:
                 lenght=min(lenght,right-left+1)
                 sum-=nums[left]
                 left+=1
-        return 0 if lenght==float('inf') else lenght
+        return lenght if lenght!=float('inf') else 0
