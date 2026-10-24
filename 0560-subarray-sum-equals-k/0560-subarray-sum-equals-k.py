@@ -5,8 +5,7 @@ class Solution:
         freq={0:1}
         for num in nums:
             pre_sum+=num
-            if pre_sum-k in freq:
-                count+=freq[pre_sum-k]
+            count+=freq.get(pre_sum-k,0)
             if pre_sum in freq:
                 freq[pre_sum]+=1
             else:
