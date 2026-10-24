@@ -7,5 +7,8 @@ class Solution:
             pre_sum+=num
             if pre_sum-k in freq:
                 count+=freq[pre_sum-k]
-            freq[pre_sum]=freq.get(pre_sum,0)+1
+            if pre_sum in freq:
+                freq[pre_sum]+=1
+            else:
+                freq[pre_sum]=1
         return count
