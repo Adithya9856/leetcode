@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Adithya9856/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adithya9856/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Adithya9856/leetcode/tree/master/1314-matrix-block-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/Adithya9856/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Adithya9856/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adithya9856/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Adithya9856/leetcode/tree/master/1314-matrix-block-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/Adithya9856/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
