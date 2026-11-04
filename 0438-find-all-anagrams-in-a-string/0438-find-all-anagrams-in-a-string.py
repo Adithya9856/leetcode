@@ -3,18 +3,20 @@ class Solution:
         if len(s)<len(p):
             return []
         result=[]
-        p_map=[0]*26
-        window=[0]*26
+        p_map={}
+        window={}
         for ch in p:
-            p_map[ord(ch)-ord("a")]+=1
+            p_map[ch]=p_map.get(ch,0)+1
         for ch in s[:len(p)]:
-            window[ord(ch)-ord("a")]+=1
+            window[ch]=window.get(ch,0)+1
         if p_map==window:
             result.append(0)
         left=0
         for right in range(len(p),len(s)):
-            window[ord(s[right])-ord("a")]+=1
-            window[ord(s[left])-ord("a")]-=1
+            window[s[right]]=window.get(s[right],0)+1
+            window[s[left]]-=1
+            if window[s[left]]==0:
+                del window[s[left]]
             left+=1
             if window==p_map:
                 result.append(left)
