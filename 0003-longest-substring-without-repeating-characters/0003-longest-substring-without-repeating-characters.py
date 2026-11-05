@@ -4,9 +4,8 @@ class Solution:
         left=0
         lenght=0
         for right in range(len(s)):
-            freq[s[right]]=freq.get(s[right],0)+1
-            while freq[s[right]]>1:
-                freq[s[left]]-=1
-                left+=1
+            if s[right] in freq:
+                left=max(left,freq[s[right]]+1)
+            freq[s[right]]=right
             lenght=max(lenght,right-left+1)
         return lenght
