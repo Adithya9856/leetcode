@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Adithya9856/leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Adithya9856/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Adithya9856/leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Adithya9856/leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Adithya9856/leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Adithya9856/leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adithya9856/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Adithya9856/leetcode/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/Adithya9856/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Adithya9856/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Adithya9856/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
