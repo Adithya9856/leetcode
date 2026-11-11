@@ -1,5 +1,7 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
+        if len(s)<len(t):
+            return ""
         t_map={}
         for ch in t:
             t_map[ch]=t_map.get(ch,0)+1
