@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Adithya9856/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adithya9856/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Adithya9856/leetcode/tree/master/1314-matrix-block-sum) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Adithya9856/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Adithya9856/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/Adithya9856/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adithya9856/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adithya9856/leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Adithya9856/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Adithya9856/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Quicksort
 |  |
 | ------- |
