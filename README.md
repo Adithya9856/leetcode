@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Adithya9856/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Adithya9856/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Adithya9856/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Adithya9856/leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Adithya9856/leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Adithya9856/leetcode/tree/master/0507-perfect-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adithya9856/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adithya9856/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Adithya9856/leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Adithya9856/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adithya9856/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Adithya9856/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Adithya9856/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adithya9856/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adithya9856/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Adithya9856/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Adithya9856/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Adithya9856/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adithya9856/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Adithya9856/leetcode/tree/master/0567-permutation-in-string) |
