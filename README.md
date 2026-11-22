@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Adithya9856/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Adithya9856/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Adithya9856/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Adithya9856/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
 |  |
 | ------- |
